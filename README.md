@@ -1,1 +1,1 @@
-# ZPD---Magn-tisk-hipertermija
+# ZPD
